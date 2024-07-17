@@ -801,7 +801,7 @@ border: 1px solid #fff;
             border: 1px solid rgba(46, 47, 66, 0.4);
         }
     
-                .input-class:checked+.modal-accept>.accept-span {
+                .input-class:checked+.label-modal-accept>.label-accept-span {
                     background-color: #404BBF;
                     border: none;
                     fill: #F4F4FD;
