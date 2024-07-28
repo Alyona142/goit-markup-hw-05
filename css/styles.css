@@ -754,10 +754,10 @@ border: 1px solid #fff;
             fill: #2E2F42;
         }
     
-        .input-icon:hover,
-        .input-icon:focus {
+
+        .input-icon-input:focus-within + .input-icon-icon {
             fill: #4D5AE5;
-        }
+           }
 
         .modal-inputs-com {
             margin-bottom: 16px;
