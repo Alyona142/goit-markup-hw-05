@@ -755,7 +755,7 @@ border: 1px solid #fff;
         }
     
 
-        .input-icon-input:focus-within + .input-icon-icon {
+        .input-icon:focus-within + .input-icon{
             fill: #4D5AE5;
            }
 
